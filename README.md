@@ -1,6 +1,10 @@
 # SOCIAL OPLESK
 ### 🏴‍☠️ HACKS 
 
+Repositorio utilizado para el hack#1 de Python
+
+Creado por Gustavo Peña
+
 <br/>
 
 📚 tutoriales de python [tutorial 1](https://docs.python.org/es/3/tutorial/) | [tutorial 2](https://www.w3schools.com/python/)
